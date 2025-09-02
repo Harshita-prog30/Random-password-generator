@@ -21,9 +21,6 @@ A desktop GUI application to generate secure random passwords with customizable 
 4. Run `PasswordGeneratorGUI.java`
 5. The GUI window will open — choose options and click **Generate**
 
-### Screenshot
-*(Include a screenshot of your app here for visual appeal)*
-
 ##  Project Structure
 Random-password-generator/
 ├── src/
