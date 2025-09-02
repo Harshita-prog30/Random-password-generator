@@ -40,4 +40,4 @@ Random-password-generator/
 MIT License (as included)
 
 ##  Author
-**Harshita Srivastava** — Aspiring full-stack engineer | GitHub: [@Harshita-prog3
+**Harshita Srivastava** — Aspiring full-stack engineer | GitHub: [@Harshita-prog30
